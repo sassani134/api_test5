@@ -50,3 +50,4 @@ gem 'devise_token_auth'
 gem 'omniauth-facebook'
 gem 'omniauth-twitter'
 gem 'omniauth-instagram'
+gem "omniauth-rails_csrf_protection"
